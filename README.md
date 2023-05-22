@@ -10,7 +10,7 @@
 >> * `> JSON`
 >> * `> Tabs`
 >> * `> Single`
->> * `> [SELECIONA O AMBIENTE QUE ESTÁ SENDO UTILIZADO]`
+>> * [SELECIONA O AMBIENTE QUE ESTÁ SENDO UTILIZADO]
 >> * `> Yes`
 >> * `> Yes`
 >> * `> npm`
