@@ -6,11 +6,11 @@
 >> * [SELECIONE O FRAMEWORK QUE VOCÊ ESTÁ UTILIZANDO, CASO NÃO TENHA, SELECIONE `none of these`]
 >> * `> Yes (para TypeScript)`
 >> * `> Node`
->> * `> Answer questinos about your style`
+>> * `> Answer questions about your style`
 >> * `> JSON`
 >> * `> Tabs`
 >> * `> Single`
->> * [SELECIONE O AMBIENTE QUE ESTÁ SENDO UTILIZADO]
+>> * `> Unix`
 >> * `> Yes`
 >> * `> Yes`
 >> * `> npm`
