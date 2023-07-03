@@ -7,7 +7,7 @@
 > * `> Yes (para TypeScript)`
 > * `> Node`
 > * `> Answer questions about your style`
-> * `> JSON`
+> * `> JS`
 > * `> Tabs`
 > * `> Single`
 > * `> Unix`
