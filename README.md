@@ -9,7 +9,7 @@
 > * `> Answer questions about your style`
 > * `> JS`
 > * `> Tabs`
-> * `> Single`
+> * `> Double`
 > * `> Unix`
 > * `> Yes`
 > * `> Yes`
